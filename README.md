@@ -1,4 +1,4 @@
-## 🧠 Algorithm Used: Modified Dijkstra's Algorithm
+## Algorithm Used: Modified Dijkstra's Algorithm
 
 This project uses a **Modified Dijkstra's Algorithm** to solve the problem of determining the maximum waiting time while traveling between locations on a set of bus routes.
 
